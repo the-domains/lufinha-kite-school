@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[LUFINHA KITESURF SCHOOL]]></title>
+        <description><![CDATA[LUFINHA KITESURF SCHOOL]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 24 May 2016 11:18:29 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>LUFINHA Kitesurf School is operated in partnership with Waves4life, at praia da Bela Vista in Caparica.</p>]]></description>
+            <link>undefinedlufinha-kitesurf-school-is-operated-in-partnership-with-wave/index.html</link>
+            <guid isPermaLink="false">513fbcd0-c227-4e18-a251-1d35564a9466</guid>
+            <pubDate>Tue, 24 May 2016 11:18:28 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
